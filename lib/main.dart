@@ -99,7 +99,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Reggy Unjaya - 32210095'),
+        title: Text('Kelompok 4'),
       ),
       body: ListView.builder(
         itemCount: data == null ? 0 : data.length,
